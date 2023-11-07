@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-11-07T07:16:25.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="a0LuYwfiWcEqg6dntkrw" version="22.0.8" type="device">
+  <diagram name="Halaman-1" id="qFyhXHq5x3_UuOpvHca8">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="359" y="120" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-3" value="Masukan Jari Jari&lt;br&gt;(r)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-4" value="L = Phi * r * r&lt;br&gt;&lt;br&gt;Phi = 22/7 Or 3.14" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="420" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-5" value="Tampil;kan Luas&lt;br&gt;(L)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="580" width="136" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-6" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="369" y="730" width="116" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9ceAKDI0aIz0-m3twJTR-3" target="9ceAKDI0aIz0-m3twJTR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9ceAKDI0aIz0-m3twJTR-4" target="9ceAKDI0aIz0-m3twJTR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9ceAKDI0aIz0-m3twJTR-5" target="9ceAKDI0aIz0-m3twJTR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="740" as="sourcePoint" />
+            <mxPoint x="440" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ceAKDI0aIz0-m3twJTR-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9ceAKDI0aIz0-m3twJTR-2" target="9ceAKDI0aIz0-m3twJTR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
